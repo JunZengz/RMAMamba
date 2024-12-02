@@ -7,7 +7,7 @@ def build_RMAMamba_T():
     parser.add_argument('--model_name', type=str,
                         default='RMAMamba_T')
     parser.add_argument('--pretrained_weight_path', type=str,
-                        default='pretrained_pth/vssm_tiny_0230_ckpt_epoch_262.pth')
+                        default='pretrained_pth/vssm_ckpt/vssm_tiny_0230_ckpt_epoch_262.pth')
     parser.add_argument('--cfg', type=str,
                         default='configs/vssm1/vssm_tiny_224.yaml')
     parser.add_argument("--opts",
@@ -59,7 +59,7 @@ def build_RMAMamba_S():
     parser.add_argument('--model_name', type=str,
                         default='RMAMamba_S')
     parser.add_argument('--pretrained_weight_path', type=str,
-                        default='pretrained_pth/vssm_small_0229_ckpt_epoch_222.pth')
+                        default='pretrained_pth/vssm_ckpt/vssm_small_0229_ckpt_epoch_222.pth')
     parser.add_argument('--cfg', type=str,
                         default='configs/vssm1/vssm_small_224.yaml')
     parser.add_argument("--opts",
