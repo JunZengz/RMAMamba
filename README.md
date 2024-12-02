@@ -31,7 +31,7 @@ python test.py --model RMAMamba_S
 ```
 
 ## Weight Files 
-Our weight files and result maps are available on [Google Drive](https://drive.google.com/drive/xxx).
+Our weight files and result maps are available on [Google Drive](https://drive.google.com/file/d/1rQw6EE2zUTstVxhXPk8FGLb3kFTHdDd2/view?usp=drive_link).
 
 
 ## Citation
