@@ -15,7 +15,7 @@ cd selective_scan && pip install .
 ```
 
 ## Download Checkpoint 
-Download pretrained checkpoints from [Google Drive](https://drive.google.com/drive/xxx) and move it to the `pretrained_pth` directory.
+Download pretrained checkpoints from [Google Drive](https://drive.google.com/file/d/1fsGNq_0ZwHtjrPAuAen2iIkPaRW9ppx4/view?usp=sharing) and move it to the `pretrained_pth` directory.
 
 ## Download Dataset
 Download CirrMRI600+ dataset from [this link](https://osf.io/cuk24/) and move it to the `data` directory.
