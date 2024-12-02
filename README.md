@@ -46,6 +46,5 @@ Please cite our paper if you find the work useful:
 ```
 
 ## Contact
-```
+
 Please contact zeng.cqupt@gamil.com for any further questions.
-```
