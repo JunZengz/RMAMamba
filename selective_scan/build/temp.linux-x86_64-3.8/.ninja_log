@@ -1,0 +1,7 @@
+# ninja log v5
+0	14275	1733149291911072582	/mnt/workspace/ZJ/RMAMamba/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	7690d2148dbfea7b
+0	25751	1733149303377116773	/mnt/workspace/ZJ/RMAMamba/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cusoflex/selective_scan_oflex.o	db79e3072c4274e7
+1	46979	1733149324612198614	/mnt/workspace/ZJ/RMAMamba/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	e986e53e24cd7eab
+24	15900	1733154434533378989	/mnt/workspace/ZJ/RMAMamba/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	4ec79308afd8af00
+24	27970	1733154446594446430	/mnt/workspace/ZJ/RMAMamba/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cusoflex/selective_scan_oflex.o	b78293029de523e5
+24	46350	1733154464979549233	/mnt/workspace/ZJ/RMAMamba/selective_scan/build/temp.linux-x86_64-3.8/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	2729c6c4303ff5df
