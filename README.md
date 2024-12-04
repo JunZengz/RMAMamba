@@ -8,7 +8,7 @@ conda create -n RMAMamba python==3.8.16
 conda activate RMAMamba
 ```
 
-## Install Dependencies:
+## Install Dependencies
 ```    
 pip install -r requirements.txt
 cd selective_scan && pip install .
