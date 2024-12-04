@@ -30,12 +30,6 @@ def load_CirrMRI_data(path):
     valid_names = [item for item in valid_dirs]
     test_names = [item for item in test_dirs]
 
-    # dirs = sorted(os.listdir(path))
-    # test_names = [f"liver_{i}" for i in range(0, 30, 1)]
-    # valid_names = [f"liver_{i}" for i in range(30, 60, 1)]
-    # train_names = [item for item in dirs if item not in test_names]
-    # train_names = [item for item in train_names if item not in valid_names]
-
     """ Training data """
     train_x, train_y = [], []
     for name in train_names:
