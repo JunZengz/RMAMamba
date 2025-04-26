@@ -37,11 +37,11 @@ Our weight files and result maps are available on [Google Drive](https://drive.g
 ## Citation
 Please cite our paper if you find the work useful:
 ```
-@article{zeng2024rmamamba,
-    title={A Reverse Mamba Attention Network for Pathological Liver Segmentation},
-    author={Zeng, Jun and Jha, Debesh and Bagci, Ulas},
-    bookarticle={xxx},
-    year={2024},
+@article{zeng2025reverse,
+  title={A Reverse Mamba Attention Network for Pathological Liver Segmentation},
+  author={Zeng, Jun and Jha, Debesh and Aktas, Ertugrul and Keles, Elif and Medetalibeyoglu, Alpay and Antalek, Matthew and Lewandowski, Robert and Ladner, Daniela and Borhani, Amir A and Durak, Gorkem and others},
+  journal={arXiv preprint arXiv:2502.18232},
+  year={2025}
 }
 ```
 
